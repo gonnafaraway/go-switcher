@@ -18,7 +18,12 @@ go install github.com/gonnafaraway/go-switcher@latest
 
 # Install a specific version
 go install github.com/gonnafaraway/go-switcher@v1.0.0
+
+# Configure GOPATH to PATH
+export PATH=$PATH:$GOPATH/bin
 ```
+
+
 
 ## Usage
 
