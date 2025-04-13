@@ -14,10 +14,10 @@ A simple CLI tool to manage multiple Go versions on your system.
 
 ```bash
 # Install the latest version
-go install github.com/gonnafaraway/go-switcher/cmd/go-switcher@latest
+go install github.com/gonnafaraway/go-switcher@latest
 
 # Install a specific version
-go install github.com/gonnafaraway/go-switcher/cmd/go-switcher@v1.0.0
+go install github.com/gonnafaraway/go-switcher@v1.0.0
 ```
 
 ## Usage
